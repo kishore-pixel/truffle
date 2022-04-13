@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "486387089476",
+    "project_id": "truffle-e5988",
+    "storage_bucket": "truffle-e5988.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486387089476:android:383e7fb00754ada1d9bc11",
+        "android_client_info": {
+          "package_name": "com.simcoder.tinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486387089476-v63d9kvnp3d3u61l7jkchuhhk8k40dvn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOXECEDAQOM9Sw_H7E5dB6MAU-5smSBSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "486387089476-v63d9kvnp3d3u61l7jkchuhhk8k40dvn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
